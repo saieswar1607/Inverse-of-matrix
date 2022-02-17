@@ -44,8 +44,8 @@ Print the value of the inverse
 
 # PROGRAM:
 ```
-#Developed by:- Koduru Sanath Kumar Reddy
-#Reference number:- 212221240024
+#Developed by: Sai Eswar Kandukuri
+#Reference number:- 21000679
 import numpy as np
 l1=[]
 l2=[]
