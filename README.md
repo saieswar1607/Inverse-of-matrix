@@ -42,7 +42,7 @@ Declare a variable inverse, using numpy module's linalg and inv functions find t
 
 Print the value of the inverse
 
-PROGRAM:
+# PROGRAM:
 ```
 #Developed by:- Koduru Sanath Kumar Reddy
 #Reference number:- 212221240024
